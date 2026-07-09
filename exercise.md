@@ -7,7 +7,7 @@
 | クーロンの公式 | $F = k \frac{q_1 q_2}{r^2}$ |
 | 判別式 | $D = b^2 - 4ac$ |
 | sinの3倍角の公式 | $\sin 3\theta = 3 \sin \theta - 4 \sin^3 \theta$ |
-| 導関数の定義 | $f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$ |
+| 導関数の定義 | $f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$ |s
 | $x^2$の不定積分 | $\int x^2 dx = \frac{1}{3}x^3 + C$ ($C$は積分定数) |
 | 1から$N$までの自然数の和 | $\sum_{i=1}^N i = \frac{N(N+1)}{2}$ |
 | $n$個の中から$m$個を取り出す組み合わせの数 | $({n \atop m}) = \frac{n!}{m!(n-m)!}$ |
